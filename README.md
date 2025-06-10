@@ -4,7 +4,7 @@ This project is a personal study of classic design patterns implemented in TypeS
 
 ## 📚 Patterns Covered
 
-The repository includes implementations and examples of the following patterns (more coming soon):
+The repository includes implementations and examples of the following patterns:
 
 - Creational Patterns
   - Factory Method
@@ -17,6 +17,8 @@ The repository includes implementations and examples of the following patterns (
   - Chain of Responsibility
 
 Each pattern is isolated in its own directory with code examples and documentation.
+
+> 📚 This project was developed as part of the [Design Patterns with TypeScript](https://www.udemy.com/course/curso-design-patterns-typescript) course on Udemy.
 
 ## 🚀 Getting Started
 
